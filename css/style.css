@@ -16,7 +16,7 @@ body {
 .head {
 	background: url(../img/logo.svg) 0px no-repeat;
 	max-width: 810px;
-	margin:0px auto;
+	margin: 0px auto;
 	font-weight: 700;
 	padding-left: 150px;
 	padding-top: 13px;
@@ -65,7 +65,8 @@ body {
 
 .main2-2 {
 	display: inline-block;
-	background: url(../img/Facebook.svg) 57px/20px 20px no-repeat, url(../img/twitter.svg) 89px/20px 20px no-repeat, url(../img/in.svg) right/20px 20px no-repeat;
+	background: url(../img/Facebook.svg) 57px/20px 20px no-repeat, url(../img/twitter.svg) 89px/20px 20px no-repeat,
+		url(../img/in.svg) right/20px 20px no-repeat;
 	font-weight: 700;
 	margin: 0px 0px 0px 420px;
 	padding: 0px 96px 0px 0px;
@@ -74,8 +75,7 @@ body {
 	border-radius: 4px;
 	margin-bottom: 53px;
 	height: 360px;
-width: 810px;
-
+	width: 810px;
 }
 .text {
 	min-height: 40px;
@@ -118,7 +118,7 @@ width: 810px;
 	padding-left: 32px;
 	margin-bottom: 4px;
 }
-.text-4 li:last-of-type{
+.text-4 li:last-of-type {
 	margin-bottom: 0px;
 }
 .text-5 {
@@ -128,7 +128,8 @@ width: 810px;
 .main2-3 {
 	display: block;
 	max-width: 141px;
-	background: url(../img/Facebook.svg) 57px/20px 20px no-repeat, url(../img/twitter.svg) 89px/20px 20px no-repeat, url(../img/in.svg) right/20px 20px no-repeat;
+	background: url(../img/Facebook.svg) 57px/20px 20px no-repeat, url(../img/twitter.svg) 89px/20px 20px no-repeat,
+		url(../img/in.svg) right/20px 20px no-repeat;
 	font-weight: 700;
 	margin-left: auto;
 }
